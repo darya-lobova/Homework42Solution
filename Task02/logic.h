@@ -5,6 +5,4 @@ using namespace std;
 
 bool is_vector_ordered(int array[DEFAULT_SIZE], int length);
 
-void print(string s) {
-	cout << s;
-}
+void print(string s);
