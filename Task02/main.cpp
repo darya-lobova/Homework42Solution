@@ -8,7 +8,7 @@ int main() {
 	do {
 		cout << "Input size of array: ";
 		cin >> length;
-	} while (length <= 0);
+	} while (length > 0);
 
 
 	cout << "Input array elements: ";
